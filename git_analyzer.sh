@@ -1,5 +1,3 @@
-#!/bin/bash
-
 # Check if a repository path is provided
 if [ $# -eq 0 ]; then
     echo "Usage: $0 <path_to_git_repository>"
