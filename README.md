@@ -46,7 +46,7 @@ chmod +x git_analyzer.sh
  ## Run the Script:
 
 ```bash
-./git_analyzer.sh /path/to/your/git/repository
+./git_analyzer.sh "/path/to/your/git/repository"
 ```
 
 **View Results:** The script will generate and display outputs for commit frequency, author contributions, code churn, and overall repository statistics. Results are saved in text files (`commit_frequency.txt`, `author_contributions.txt`, `code_churn.txt`).
